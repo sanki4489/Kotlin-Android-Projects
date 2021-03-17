@@ -1,3 +1,6 @@
 # Kotlin-Android-Projects
-Check my android projects with kotlin as coding language
+#Self project
+Sem: 5th      Subject: Android Programming
+Objectives:
+1.Create few simple apps with android studio with kotlin
 check all the branches for more projects
